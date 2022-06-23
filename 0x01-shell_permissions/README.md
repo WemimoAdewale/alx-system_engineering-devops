@@ -1,1 +1,1 @@
-script thant changes owner
+script that changes owner and group owner
