@@ -1,1 +1,1 @@
-scriit that print absolute pathname of current directory
+Task 0 where am I 
