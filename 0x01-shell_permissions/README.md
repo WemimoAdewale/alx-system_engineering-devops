@@ -1,1 +1,1 @@
-script that sets permission to owner,groups and others
+script that sets the mode of the file hello
