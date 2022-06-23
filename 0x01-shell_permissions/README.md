@@ -1,1 +1,1 @@
-script that set file hello to ollsh
+script that execute permissions to all subdirectories
