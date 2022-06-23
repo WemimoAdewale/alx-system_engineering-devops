@@ -1,1 +1,1 @@
-script that adds execution programs to owner
+script that sets permission to owner,groups and others
