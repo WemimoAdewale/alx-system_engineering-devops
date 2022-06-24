@@ -1,1 +1,1 @@
-script that prints absolute path
+script that changes working directory
