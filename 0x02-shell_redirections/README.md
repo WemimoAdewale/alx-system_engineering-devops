@@ -1,1 +1,1 @@
-script that takes a list of words
+script that displays lines containing the pattern root
