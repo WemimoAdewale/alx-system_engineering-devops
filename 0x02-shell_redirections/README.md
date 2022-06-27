@@ -1,1 +1,1 @@
-script that prints last lines
+script that displays first five lines
