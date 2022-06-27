@@ -1,1 +1,1 @@
-script that displays ten newest lines
+script that takes a list of words
