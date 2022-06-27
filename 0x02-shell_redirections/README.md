@@ -1,1 +1,1 @@
-script that prints third line
+scriptthat creats a file naned
