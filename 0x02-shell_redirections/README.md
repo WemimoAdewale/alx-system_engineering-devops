@@ -1,1 +1,1 @@
-script that removes c
+script that displays all users and home directories
