@@ -1,1 +1,1 @@
-script that counts number of directories and subdirectories
+script that displays ten newest lines
