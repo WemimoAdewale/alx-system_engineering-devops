@@ -1,1 +1,1 @@
-my redirections project
+script that pront a confused smiley
