@@ -1,1 +1,1 @@
-script that display lines
+script that dosplays
