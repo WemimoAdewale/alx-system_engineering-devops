@@ -1,1 +1,1 @@
-script that displays first five lines
+script that prints third line
