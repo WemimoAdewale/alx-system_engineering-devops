@@ -1,1 +1,1 @@
-script that deletes js files
+script that counts number of directories and subdirectories
