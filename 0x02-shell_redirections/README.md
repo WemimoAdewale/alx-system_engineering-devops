@@ -1,1 +1,1 @@
-scriptthat creats a file naned
+script that writes into file
