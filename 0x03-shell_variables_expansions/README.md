@@ -1,1 +1,1 @@
-script that pronts tge result of POWER by DIVIDE
+script that displays the piwer if love followed by breath
