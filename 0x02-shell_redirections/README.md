@@ -1,1 +1,1 @@
-script that displays all users and home directories
+script that writes a command to find empty tasks
