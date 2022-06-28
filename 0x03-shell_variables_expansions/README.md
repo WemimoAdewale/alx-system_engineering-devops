@@ -1,1 +1,1 @@
-scripy thay convert from base 2 to 10
+script that prints all pissible combination of letters except oo
