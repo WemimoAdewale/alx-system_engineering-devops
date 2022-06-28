@@ -1,1 +1,1 @@
-script that displays the current directory in a long format
+script that prints all combination of two letters
