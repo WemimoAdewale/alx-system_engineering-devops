@@ -1,1 +1,1 @@
-script that prints every other line
+acript that adds the two numbers stored in WAYER abd STIR
