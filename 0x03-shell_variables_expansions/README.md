@@ -1,1 +1,1 @@
-script that counts the number of subdirectories in path
+script that prints environmental variables
