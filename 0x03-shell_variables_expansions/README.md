@@ -1,1 +1,1 @@
-scripts that convert a number from base 10to base 16
+script that encodes and decodes test using ASCII
