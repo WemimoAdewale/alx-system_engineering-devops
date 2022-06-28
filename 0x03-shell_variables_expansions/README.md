@@ -1,1 +1,1 @@
-script that displays the piwer if love followed by breath
+scripy thay convert from base 2 to 10
