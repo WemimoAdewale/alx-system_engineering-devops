@@ -1,1 +1,1 @@
-script that prints hello you
+script that adds action to the path/action
