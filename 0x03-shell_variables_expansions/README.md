@@ -1,1 +1,1 @@
-script that creates a new global variable
+script that adds 128to TRIEKNOWLEDGE
