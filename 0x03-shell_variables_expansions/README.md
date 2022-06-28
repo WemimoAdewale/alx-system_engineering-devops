@@ -1,1 +1,1 @@
-script that prints all local variables and their functions
+script that creates a new local variable
