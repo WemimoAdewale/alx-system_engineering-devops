@@ -1,1 +1,1 @@
-script that prints all pissible combination of letters except oo
+script that prints a number with two decimal places followed by a new line
