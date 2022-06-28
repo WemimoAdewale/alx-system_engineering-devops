@@ -1,1 +1,1 @@
-script that decodes acrostic
+script that parses web server log in TSV format
