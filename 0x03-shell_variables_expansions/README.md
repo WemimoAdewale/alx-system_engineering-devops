@@ -1,1 +1,1 @@
-script that encodes and decodes test using ASCII
+script that prints every other line
