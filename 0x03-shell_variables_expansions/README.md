@@ -1,1 +1,1 @@
-script that adds 128to TRIEKNOWLEDGE
+script that pronts tge result of POWER by DIVIDE
